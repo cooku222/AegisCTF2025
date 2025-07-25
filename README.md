@@ -26,7 +26,7 @@ aegisctf{shinnosuke}
 
 - Cute 2v2
 
-![KakaoTalk_20250528_153710480.png](KakaoTalk_20250528_153710480.png)
+![KakaoTalk_20250528_153710480.png](EVE.png)
 
 → **LSB 스테가노 그래피 기법**을 이용했습니다. 
 
